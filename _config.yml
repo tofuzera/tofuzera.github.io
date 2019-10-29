@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "pt-BR"
+title                    : " / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Bruno Vieira"
+description              : &description "Gênio, bilionário, playboy, filantropo"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @brunogfbp
 facebook:
-  username               :
+  username               : bruno vieira
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Bruno"
+  avatar           : "https://scontent.fcfc2-1.fna.fbcdn.net/v/t1.0-1/p160x160/67404220_2338452672900473_61830662725828608_o.jpg?_nc_cat=102&cachebreaker=hd&_nc_oc=AQmpoIxHXbiL_V0uT3GAeTCsrOPtICDmh-Tt4hqygi2sardqdhI5m0ABms_29ti3Fsw&_nc_ht=scontent.fcfc2-1.fna&oh=e478be96a0996e8fa7539356a76e5ee5&oe=5E4E3BC7"
+  bio              : "Minha biografia ainda está sendo escrita"
+  location         : "Chapecó/SC"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -94,12 +94,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "bruno vieira"
   foursquare       :
-  github           : "academicpages"
+  github           : "tofuzera"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "brunogfb"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "brunogfbp"
   vine             :
   weibo            :
   xing             :
